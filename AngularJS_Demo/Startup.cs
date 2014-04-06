@@ -15,6 +15,7 @@ namespace App.AngularJS_Demo
     {
         public void Configuration(IAppBuilder app)
         {
+            //this line added for github testing
             //// For more information on how to configure your application, visit:
             //// http://go.microsoft.com/fwlink/?LinkID=316888
 
